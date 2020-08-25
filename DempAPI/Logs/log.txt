@@ -1,0 +1,58 @@
+﻿8/23/2020 11:02:10 PM
+filter at global level Before execution of Get2
+8/23/2020 11:02:11 PM
+filter at controller level Before execution of Get2
+8/23/2020 11:02:12 PM
+filter 2 Before execution of Get2
+8/23/2020 11:02:13 PM
+Inside action method get2...
+Action Get2 from Action Filters Controller
+8/23/2020 11:02:14 PM
+filter 2 After execution of Get2
+8/23/2020 11:02:14 PM
+filter at controller level After execution of Get2
+8/23/2020 11:02:15 PM
+filter at global level After execution of Get2
+8/23/2020 11:03:55 PM
+filter at global level Before execution of Get2
+8/23/2020 11:04:43 PM
+filter at controller level Before execution of Get2
+8/23/2020 11:04:47 PM
+filter 2 Before execution of Get2
+8/23/2020 11:05:18 PM
+Inside action method get2...
+Action Get2 from Action Filters Controller
+8/23/2020 11:05:26 PM
+filter 2 After execution of Get2
+8/23/2020 11:05:26 PM
+filter at controller level After execution of Get2
+8/23/2020 11:05:29 PM
+filter at global level After execution of Get2
+8/25/2020 8:27:34 AM
+filter at global level Before execution of Get
+8/25/2020 8:27:47 AM
+filter at global level After execution of Get
+8/25/2020 8:28:17 AM
+filter at global level Before execution of Get
+8/25/2020 8:28:20 AM
+filter at global level After execution of Get
+8/25/2020 9:55:14 AM
+filter at global level Before execution of GetRespns
+8/25/2020 9:55:20 AM
+filter at global level After execution of GetRespns
+8/25/2020 9:56:55 AM
+filter at global level Before execution of GetFirstNames
+8/25/2020 9:56:55 AM
+filter at global level After execution of GetFirstNames
+8/25/2020 9:58:10 AM
+filter at global level Before execution of Get
+8/25/2020 9:58:10 AM
+filter at global level After execution of Get
+8/25/2020 9:59:28 AM
+filter at global level Before execution of Get
+8/25/2020 9:59:28 AM
+filter at global level After execution of Get
+8/25/2020 10:00:00 AM
+filter at global level Before execution of Get
+8/25/2020 10:00:00 AM
+filter at global level After execution of Get
